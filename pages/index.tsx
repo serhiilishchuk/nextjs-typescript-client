@@ -24,7 +24,6 @@ const Home: NextPage = () => {
 
           <Heading>Welcome to Digital with TS</Heading>
           <Link href="/createUser">Create new user page</Link>
-          <Link href="/login">Login with Auth0</Link>
         </VStack>
 
       </Flex>
